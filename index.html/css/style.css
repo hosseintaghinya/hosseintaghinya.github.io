@@ -1,0 +1,105 @@
+* {margin: 0 auto;}
+body {
+background-color: #EFEAEA;
+    font-size: 14px;
+    direction: rtl;
+}
+h5{
+    font-size: 28px;
+}
+
+.wrapper{
+    height: 600px;
+    background-image: url('../img/hero-bg.jpg');
+    background-position: center;
+}
+header{
+    width:100%;
+    padding-top: 120px;
+    background-color: rgba(000, 000, 000, 0.5) ;
+}header ul li{
+    list-style: none;
+    display: inline;
+    padding-right: 20px;
+    margin-top: 65px;
+    color:#fff ;
+    
+}
+header ul li a{
+
+    color:#fff ;
+    
+}
+.login{
+    text-align: left;
+    padding: 20px;
+}
+.login a{
+     color:#fff ;
+}
+
+a{color: #575757;
+  text-decoration: none;
+}
+.search{
+    margin-top: 50px;
+    text-align: center;
+}
+h1{
+    font-size: 20px;
+}
+.music{
+    height: 100px;
+    width: 100%;
+}
+
+.music-wpic{
+    width: 100%;
+    height: auto;
+    margin: 0 10%;
+}
+.music-wpic ul li {padding-right: 10px; display: inline; list-style: none;color: #575757}
+.searchm{
+    width: 100%;
+   float: right;
+    height: 500px;
+}.music ul li{
+    list-style: none;
+    display: inline;
+    padding-right: 15px;
+    margin-top: 20px;
+    color: #575757;
+}
+.music ul {margin-right: 38%;}
+.image{
+    padding: 20px;
+    margin-bottom: 400px;
+    height: 300px;
+    width: 80%;
+}
+h4{
+    font-size: 28px;
+   margin-right: 160px;
+   
+    color: #575757;
+}
+.book{
+    /*margin-top: 500px;*/
+    margin: auto;
+}
+.image2 ul li{
+    
+    
+    margin-right: 10px;
+    padding-right: 1px; display: inline; list-style: none;color: #575757
+}
+.image2{
+    margin-right: 540px;
+}
+.image3 ul li{
+     margin-right: 10px;
+    padding-right: 1px; display: inline; list-style: none;color: #575757
+}
+.image3{
+    margin-right: 360px;
+}
